@@ -1,0 +1,9 @@
+# 用户个人数据 (不要上传到GitHub)
+preferences.json
+
+# macOS
+.DS_Store
+
+# 临时文件
+*.tmp
+*.log
